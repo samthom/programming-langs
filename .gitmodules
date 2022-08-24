@@ -1,0 +1,6 @@
+[submodule "golang-tdd"]
+	path = golang-tdd
+	url = git@github.com:samthom/golang-tdd.git
+[submodule "rust-book"]
+	path = rust-book
+	url = git@github.com:samthom/rust-book.git
