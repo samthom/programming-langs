@@ -4,3 +4,6 @@
 [submodule "rust-book"]
 	path = rust-book
 	url = git@github.com:samthom/rust-book.git
+[submodule "lua-tuutor"]
+	path = lua-tuutor
+	url = git@github.com:samthom/lua-tuutor.git
